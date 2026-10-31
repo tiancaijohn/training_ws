@@ -1,1 +1,0 @@
-/home/john/training_ws/build/training_sender/ament_cmake_environment_hooks/local_setup.bash
