@@ -1,0 +1,1 @@
+/home/john/training_ws/build/training_sender/ament_cmake_core/training_senderConfig-version.cmake

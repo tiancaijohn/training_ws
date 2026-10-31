@@ -1,0 +1,1 @@
+/home/john/training_ws/build/training_receiver/ament_cmake_core/training_receiverConfig-version.cmake
